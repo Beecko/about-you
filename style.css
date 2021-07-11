@@ -1,0 +1,60 @@
+body{
+    
+    background-color: gray;
+    margin: 90px;
+    margin-left: 20%;
+}
+
+#bg{
+    width: 80%;
+    height: 440px;
+    border-radius: 25px;
+}
+
+#ispm{
+    position: absolute;
+    width: 450px;
+    top: 100px;
+    left: 470px;
+    opacity: 0.3;
+}
+
+#profil{
+    position: absolute;
+    width: 10%;
+    top: 120px;
+    left: 380px;
+    border-radius: 10px;
+}
+
+#nom{
+    font-family: cursive, sans-serif;
+    color: white;
+    position: absolute;
+    top: 250px;
+    left:350px;
+    font-size:2em;
+    text-align: center;
+}
+
+#infoPers{
+    font-family: sans-serif;
+    color: white;
+    position: absolute;
+    top: 380px;
+    left:330px;
+    /* text-align: center */
+}
+
+
+#CDE{
+    position: absolute;
+    top: 120px;
+    left: 800px;
+    color: white
+}
+
+.CDE{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: unset;
+}
